@@ -5,23 +5,13 @@
   "main": "dist/server.js",
   "type": "module",
   "dependencies": {
+    "express": "5.2.1",
     "ws": "8.19.0"
   },
-  "devDependencies": {
-    "@types/node": "^20.14.11",
-    "@types/ws": "8.18.1",
-    "nodemon": "^3.1.4",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.5.3"
-  },
+  "devDependencies": { },
   "scripts": {
-    "start": "node dist/server.js",
-    "dev": "nodemon src/server.ts",
-    "build": "tsc",
-    "de": "25.2.3",
-    "nodemon": "3.1.11",
-    "ts-node": "10.9.2",
-    "typescript": "5.9.3"
+    "start": "echo \"Hello world!\" && exit 1'",
+    "test": "echo \"Error: no test specified\" && exit 1'"
   },
   "repository": {
     "type": "git",

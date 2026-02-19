@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "email": "gb.jc@outlook.com",
+    "name": "Juan Gómez"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.19.33",
+    "nodemon": "3.1.11",
+    "ts-node": "10.9.2",
+    "typescript": "5.9.3"
+  }
+}
