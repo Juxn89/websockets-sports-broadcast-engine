@@ -1,4 +1,5 @@
 {
 	"explorer.autoReveal": true,
-	"explorer.compactFolders": false
+	"explorer.compactFolders": false,
+	"editor.cursorBlinking": "expand",
 }
