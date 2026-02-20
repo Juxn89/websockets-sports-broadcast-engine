@@ -10,6 +10,9 @@
 2. [Skills](https://agentskills.io/)
 3. [AGENTS.md](https://agents.md/)
 
+## 🛠️ Tools
+1. [Neon - Fast Postgres Databases for Teams and Agents](https://neon.com/)
+
 ## Communication Patterns
 1. Broadcast
 2. Unicast
