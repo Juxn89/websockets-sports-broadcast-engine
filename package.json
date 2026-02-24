@@ -1,5 +1,10 @@
 {
   "name": "websockets-sports-broadcast-engine",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
   "description": "WebSockets Crash Course: Build a Real-Time Sports Broadcast Engine",
   "version": "1.0.0",
   "main": "dist/server.js",
@@ -8,7 +13,7 @@
     "express": "5.2.1",
     "ws": "8.19.0"
   },
-  "devDependencies": { },
+  "devDependencies": {},
   "scripts": {
     "start": "echo \"Hello world!\" && exit 1'",
     "test": "echo \"Error: no test specified\" && exit 1'"
