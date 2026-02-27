@@ -1,0 +1,1 @@
+export { IWebSocket } from './ws.interface'
